@@ -13,8 +13,4 @@ Try to create a Recepie App, Which includes almost all impotant pages like Home 
 
 ### Furniture App Final UI
 
-![Preview](part_1.gif)
-
-## Part 1
-
 ![App UI](/ui.png)
